@@ -1,6 +1,6 @@
 # NewsApp
 
-Open source App where you can get new highlights and search for latest news of your choice.
+Open source App where you can get news highlights and search for latest news of your choice.
 
 ## Description
 
