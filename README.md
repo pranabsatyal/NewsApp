@@ -15,6 +15,7 @@ Open source App where you can get news highlights and search for latest news of 
 **Frameworks**
 
 - UIKit
+- Collection View with compositional layout
 - Networking - URLSession - Codable - APICalls - JSON Parsing
 - Safari Services
 
