@@ -11,6 +11,7 @@ import SDWebImage
 class TopCollectionViewCell: UICollectionViewCell {
     
     static let identifier = "TopCollectionViewCell"
+    // some changes here
     
     lazy var imageView: UIImageView = {
         let image = UIImageView()

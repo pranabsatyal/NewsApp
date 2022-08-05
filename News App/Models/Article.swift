@@ -17,3 +17,5 @@ struct Article: Codable {
     let publishedAt: String
     let content: String?
 }
+
+// More changes in article

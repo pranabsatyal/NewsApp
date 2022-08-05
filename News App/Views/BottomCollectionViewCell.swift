@@ -10,6 +10,7 @@ import UIKit
 class BottomCollectionViewCell: UICollectionViewCell {
     
     static let identifier = "BottomCollectionViewCell"
+    // some changes here
     
     lazy var imageView: UIImageView = {
         let image = UIImageView()
