@@ -12,3 +12,5 @@ struct Model: Codable {
     let totalResults: Int
     let articles: [Article]
 }
+
+// Made some changes to Model
